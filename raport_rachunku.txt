@@ -1,0 +1,12 @@
+Rachunek ID: 1
+Kwota: 100.0
+Oplacony: true
+--------------
+Rachunek ID: 1
+Kwota: 30.0
+Oplacony: true
+--------------
+Rachunek ID: 1
+Kwota: 35.0
+Oplacony: true
+--------------
