@@ -1,3 +1,0 @@
-1,jan,sebastian,kierownik,2025-02-03
-2,Kuba,Andrusiewicz,Kelner,2025-02-03
-4,Kuba,kubaaaaa,rolnik,2025-02-03
